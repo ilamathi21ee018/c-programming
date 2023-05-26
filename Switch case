@@ -1,0 +1,39 @@
+// Online C compiler to run C program online
+
+#include <stdio.h>
+
+int main()
+
+{
+
+    int num=1;
+
+    switch(num)
+
+    {
+
+        case1;
+
+        printf("dips");
+
+        break;
+
+        
+
+        case2;
+
+        printf("mathi ");
+
+        break;
+
+        default:
+
+        printf("please enter the valid number ")
+
+        
+
+    }
+
+    return 0;
+
+}
