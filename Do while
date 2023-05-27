@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() 
+
+{
+
+    int x=5;
+
+    do
+
+    {
+
+        printf("JAVA/n");
+
+        x--;
+
+        }
+
+       while(x>0);
+
+       
+
+    return 0;
+
+}
