@@ -33,3 +33,58 @@ int main()
     }
 
 }
+[5/27, 10:41 AM] Ilamathi: #include <stdio.h>
+
+int main()
+
+{
+
+  int n=5;
+
+  char ch='a';
+
+  for (int i=1;i<=n;i++)
+
+  {
+
+      printf("%c",ch);
+
+      
+
+  }
+
+}
+
+[5/27, 10:52 AM] Ilamathi: #include <stdio.h>
+
+int main()
+
+{
+
+    int n=5;
+
+    for(int i=0;i<n;i++)
+
+    {
+
+     if(i%2==0)
+
+     {
+
+         printf("x");
+
+     }
+
+     else
+
+     {
+
+         printf("0");
+
+     }
+
+    }
+
+    
+
+     }
