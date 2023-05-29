@@ -82,4 +82,19 @@ int main()
   }
   printf("%d",sum);
 }
+// averge of an given array
+#include <stdio.h>
+
+int main()
+{
+  int arr[5]={1,2,3,4,5};
+  int sum=0;
+  int avg=3;
+  for(int i=0;i<5;i++)
+  {
+     sum=sum+arr[i];
+  }
+  avg=sum/5;
+  printf("%d",sum);
+}
 
