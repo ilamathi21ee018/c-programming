@@ -98,3 +98,21 @@ int main()
   printf("%d",sum);
 }
 
+//find the minimum element in an given array
+#include <stdio.h>
+
+int main()
+{
+  int arr[5]={1,2,3,4,5};
+  int max;
+  max=arr[0];
+  for(int i=1;i<5;i++)
+  {
+      if(max<arr[i])
+      {
+          max=arr[i];
+      }
+  }
+   printf("%d",max);
+   return 0;
+}
