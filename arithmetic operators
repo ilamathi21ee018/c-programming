@@ -14,3 +14,14 @@ int main()
       printf("%s\n",s1.name);
     
 }
+// #include <stdio.h>
+
+int main()
+{
+ int a;
+ printf("the value of a is:");
+ scanf("%d",&a);
+ int b=a*a*a;
+ printf("the result is;%d",b);
+ return 0;
+}
